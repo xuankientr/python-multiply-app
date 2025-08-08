@@ -1,0 +1,5 @@
+# Testing framework
+pytest>=7.0.0
+
+# No additional dependencies needed for the basic multiply function
+# Add other dependencies here as needed
