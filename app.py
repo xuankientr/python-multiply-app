@@ -19,6 +19,7 @@ def multiply(a, b):
 
 def main():
     """Main function to demonstrate the multiply function"""
+    print("=== Testing multiply function on kien branch ===")
     # Test the multiply function
     result = multiply(3, 4)
     print(f"multiply(3, 4) = {result}")
