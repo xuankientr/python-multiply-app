@@ -27,6 +27,7 @@ def main():
     print(f"multiply(5, 6) = {multiply(5, 6)}")
     print(f"multiply(2.5, 4) = {multiply(2.5, 4)}")
     print(f"multiply(-3, 7) = {multiply(-3, 7)}")
+    print(f"multiply(10, 10) = {multiply(10, 10)}")  # Demo thêm test case
 
 
 if __name__ == "__main__":
